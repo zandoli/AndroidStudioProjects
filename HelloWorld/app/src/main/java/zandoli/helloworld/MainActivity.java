@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         //Look this is the layout file I am linking
-        //setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main);
     }
 }
