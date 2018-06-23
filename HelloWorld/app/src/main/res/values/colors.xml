@@ -10,4 +10,7 @@
     <color name="cyan">#0ff</color>
     <color name="white">#fff</color>
     <color name="black">#000</color>
+    <color name="limeGreen">#32cd32</color>
+    <color name="purple">#3a24aa</color>
+    <color name="grey">#3b5c78</color>
 </resources>

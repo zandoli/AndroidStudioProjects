@@ -38,4 +38,21 @@
 
     </LinearLayout>
 
+    <LinearLayout
+        android:background="@color/grey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:background="@color/limeGreen"/>
+
+        <View
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:background="@color/purple"/>
+
+    </LinearLayout>
+
 </LinearLayout>
